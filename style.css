@@ -9,6 +9,7 @@ body {
     display: grid;
     grid-template-rows: auto;
     grid-template-columns: auto;
+    max-width: 800px;
 }
 p1 { display: flex;
     justify-content: flex-end;
